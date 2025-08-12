@@ -7,10 +7,11 @@ Currently learning and sharing about hardware optimization and embedded systems.
 
 ---
 
-## 📫 Reach Me
-- GitHub: [Lahjaki](https://github.com/Lahjaki)
-- Email: DzakyArdiansyahh@gmail.com
-- Contact Whatsapp : 6285704823825
+## 📫 Contact Me  
+[![Email](https://img.shields.io/badge/Email-Dzaky%20Ardiansyah-red?style=flat-square&logo=gmail)](mailto:dzakyardiansyah@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dzaky%20Ardiansyah-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/username)  
+[![Instagram](https://img.shields.io/badge/Instagram-@Lahjaki-pink?style=flat-square&logo=instagram)](https://instagram.com/lahjaki)  
+[![Telegram](https://img.shields.io/badge/Telegram-@ahkokjaki-blue?style=flat-square&logo=telegram)](https://t.me/ahkokjaki)
   
 ---
 
